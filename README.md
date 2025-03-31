@@ -3,7 +3,8 @@
 
 - 🌱 Estudando C#  
 - 📫 lucasfofs3@gmail.com
-- 😄 Pronomes: ele/dele
+- 🏫 Graduando em Sistemas de Informação na universidade PUC-Minas.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqczinn&count_private=true&show_icons=true&theme=radical)       
 
