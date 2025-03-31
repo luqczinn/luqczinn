@@ -1,9 +1,9 @@
-## Olá! Eu sou o luqczinn👋
+## Hi! I'm luqczinn👋
 
 
-- 🌱 Estudando C#  
+- 🌱 Studying C#  
 - 📫 lucasfofs3@gmail.com
-- 🏫 Graduando em Sistemas de Informação na universidade PUC-Minas.
+- 🏫 Graduating in Information Systems at PUC-Minas University.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqczinn&count_private=true&show_icons=true&theme=radical)       
