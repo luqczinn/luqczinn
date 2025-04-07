@@ -3,7 +3,7 @@
 
 - 🌱 Studying C#  
 - 📫 lucasfofs3@gmail.com
-- 🏫 Graduating in Information Systems at PUC-Minas University.
+- 🏫 Undegraduate in Information Systems at PUC-Minas University.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqczinn&count_private=true&show_icons=true&theme=radical)       
